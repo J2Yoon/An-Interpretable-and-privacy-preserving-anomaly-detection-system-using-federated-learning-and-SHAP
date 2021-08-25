@@ -1,6 +1,6 @@
-# FederatedIDS
+# An Interpretable anomaly detection system using federated learning and SHAP
 
-This project is for an interpretable privacy-preserving intrusion detection system(IDS) using federated learning and SHAP.
+This project is for an interpretable privacy-preserving anomaly detection system using federated learning and SHAP.
 
 
 ## Federated Learning
